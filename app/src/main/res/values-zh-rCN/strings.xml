@@ -1,0 +1,13 @@
+<resources>
+    <string name="home">首页</string>
+    <string name="favorite">喜欢</string>
+    <string name="mine">我的</string>
+    <string name="settings">设置</string>
+    <string name="collection">收藏</string>
+    <string name="shopping">购物</string>
+    <string name="menu">菜单</string>
+    <string name="changeLanguage">多语言</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="switch_themes">切换主题</string>
+    <string name="themes">主题</string>
+</resources>
